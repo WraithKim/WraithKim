@@ -1,3 +1,5 @@
+### 소개
+
 > 도구가 사람을 결정하는 것이 아닌 사람이 도구를 결정하는 것이다.
 
 대학 졸업하고 2년 동안 스타트업에서 일한 주니어 개발자입니다. 멈춰있지 않기 위해 노력하고 있습니다.
@@ -32,7 +34,7 @@
 - 언어: **Java**, Python, C++, C#, Kotlin
 - 도구: Nginx, Django, Flask, Android, Linux, Unity3D
 
-#### 외부 링크
+### 외부 링크
 
 블로그: https://wraithkim.wordpress.com/  
 이메일: wraithtorch@gmail.com  
