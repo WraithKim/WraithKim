@@ -6,7 +6,7 @@
 
 ### 현재 상태 (갱신일 2021.08.10)
 
-- 서버/백엔드 신입에 지원 중
+- 서버/백엔드(Java, Spring) 신입에 지원 중
 - Docker, Jenkins, Spring boot, Python 공부 중
 - Discord bot을 갖고 노는 중  
 
