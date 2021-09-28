@@ -4,11 +4,11 @@
 
 대학 졸업하고 2년 동안 스타트업에서 일한 주니어 개발자입니다. 멈춰있지 않기 위해 노력하고 있습니다.
 
-### 현재 상태 (갱신일 2021.08.10)
+### 현재 상태 (갱신일 2021.09.28)
 
-- 서버/백엔드(Java, Spring) 신입에 지원 중
-- Docker, Jenkins, Spring boot, Python 공부 중
-- Discord bot을 갖고 노는 중  
+- 서버/백엔드 신입에 지원 중
+- Discord bot 개발은 공채 일정 때문에 쉬는 중
+- 블로그와 서브 블로그에 CS 지식 공부한 거 올리는 중 ([분노의 기술면접 준비](https://wraithkim.github.io/blog/tech-interview/2021/05/20/tech-interview-with-rage.html))
 
 ### 약력
 
@@ -37,6 +37,7 @@
 ### 외부 링크
 
 블로그: https://wraithkim.wordpress.com/  
+서브블로그: https://wraithkim.github.io/blog/ <- Markdown 써야될 때만 사용 중  
 이메일: wraithtorch@gmail.com  
 포트폴리오: https://wraithkim.notion.site/fa6a59b5f3a5430984ee1f2ae9394549
 <!--
