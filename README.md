@@ -4,11 +4,10 @@
 
 대학 졸업하고 2년 동안 스타트업에서 일한 주니어 개발자입니다. 멈춰있지 않기 위해 노력하고 있습니다.
 
-### 현재 상태 (갱신일 2021.09.28)
+### 현재 상태 (갱신일 2021.10.19)
 
 - 서버/백엔드 신입에 지원 중
-- Discord bot 개발은 공채 일정 때문에 쉬는 중
-- 블로그와 서브 블로그에 CS 지식 공부한 거 올리는 중 ([분노의 기술면접 준비](https://wraithkim.github.io/blog/tech-interview/2021/05/20/tech-interview-with-rage.html))
+- Discord bot 개발 진행 중 (https://github.com/team-play-together/together-bot)
 
 ### 약력
 
