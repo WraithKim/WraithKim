@@ -1,7 +1,7 @@
-### 현재 상태 (갱신일 2021.10.19)
+### 현재 상태 (갱신일 2021.11.28)
 
-- 서버/백엔드 신입에 지원 중
 - Discord bot 개발 진행 중 (https://github.com/team-play-together/together-bot)
+- Architecture Patterns with Python 읽기
 
 ### 약력
 
