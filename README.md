@@ -1,6 +1,6 @@
-### 현재 상태 (갱신일 2021.11.28)
+### 현재 상태 (갱신일 2022.01.10)
 
-- Discord bot 개발 진행 중 (https://github.com/team-play-together/together-bot)
+- Discord bot을 Python에서 Typescript로 이전 중(https://github.com/team-play-together/discord-bot)
 - Architecture Patterns with Python 읽기
 
 ### 외부 링크
